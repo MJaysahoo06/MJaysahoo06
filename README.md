@@ -2,10 +2,8 @@
 
 ---
 
-<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=500&lines=Full-Stack+Developer;JavaScript+%7C+React+%7C+Firebase;Data+Analyst+%7C+AI+explorer+%7C+Python;Open+Source+Contributor;Let's+Build+Something+Awesome+🚀" alt="Typing Animation" />
-  </a>
-</div>
+
+<img align="right" height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmRndTh6aWR0eXlydWg3cms0eHk3OXByc3BxYzJqajVlbDRuZG80aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/iIFS20pNoCg1EEVodC/giphy.gif" alt="Giphy GIF" />
 
 <!--
 <div align="center">
