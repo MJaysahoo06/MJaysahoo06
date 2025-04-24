@@ -3,7 +3,8 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=500&lines=Full-Stack+Developer;JavaScript+%7C+React+%7C+Firebase;Data Analyst+%7C+AI explorer+%7C+Python;Open+Source+Contributor;Let's+Build+Something+Awesome+🚀" alt="Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com
+?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=500&lines=Full-Stack+Developer;JavaScript+%7C+React+%7C+Firebase;Data Analyst+%7C+AI explorer+%7C+Python;Open+Source+Contributor;Let's+Build+Something+Awesome+🚀" alt="Typing Animation" />
 </div>
 
 ---
