@@ -1,14 +1,10 @@
 <h2 align="left">Hi 👋! I'm Mrutunjaya Sahoo, a Developer from India</h2>
 
 ---
-<!--<div align="center">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=500&lines=Full-Stack+Developer;JavaScript+%7C+React+%7C+Firebase;Data+Analyst+%7C+AI+explorer+%7C+Python;Open+Source+Contributor;Let's+Build+Something+Awesome+🚀" alt="Typing Animation" />
-  </a>
-</div>-->
 
-<div align="center">
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=500&lines=Full-Stack+Developer;JavaScript+%7C+React;AI+Explorer+%7C+Python;Let's+Build+Something+Awesome+🚀" alt="Typing SVG" />
+
+
+<div align="center"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=F75C7E&width=500&lines=Full-Stack+Developer;JavaScript+%7C+React+%7C+Firebase;Data+Analyst+%7C+AI+explorer+%7C+Python;Open+Source+Contributor;Let's+Build+Something+Awesome+🚀" alt="Typing Animation" />
   </a>
 </div>
 
