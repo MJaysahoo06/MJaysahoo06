@@ -64,11 +64,11 @@
 
 ---
 
-<!-- ### 🔥 GitHub Activity Graph
+ ### 🔥 GitHub Activity Graph
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=MJaysahoo06&bg_color=1a1b27&color=f8d866&line=f75c7e&point=f8d866&area=true&hide_border=true" alt="GitHub Activity Graph">
-</div> -->
+</div> 
 </div>
 
 ---
